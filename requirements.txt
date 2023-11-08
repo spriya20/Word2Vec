@@ -1,0 +1,6 @@
+numpy
+pandas
+BeautifulSoup4
+nltk
+scikit-learn
+gensim

@@ -1,0 +1,5 @@
+word2vec-nlp-tutorial/
+DATA/
+word2vec.ipynb
+__pycache__/
+word2vec-nlp-tutorial.zip
